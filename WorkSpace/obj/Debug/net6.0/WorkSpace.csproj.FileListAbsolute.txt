@@ -62,3 +62,4 @@ C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\WorkSpace\obj\Debug\net6.0\r
 C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\WorkSpace\obj\Debug\net6.0\WorkSpace.pdb
 C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\WorkSpace\obj\Debug\net6.0\WorkSpace.genruntimeconfig.cache
 C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\WorkSpace\obj\Debug\net6.0\ref\WorkSpace.dll
+C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\WorkSpace\obj\Debug\net6.0\WorkSpace.sourcelink.json

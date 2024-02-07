@@ -13,3 +13,4 @@ C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\Business\obj\Debug\net6.0\Bu
 C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\Business\obj\Debug\net6.0\refint\Business.dll
 C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Mehmet Kemal\Desktop\Uygulama\MaskTracking\Business\obj\Debug\net6.0\Business.sourcelink.json

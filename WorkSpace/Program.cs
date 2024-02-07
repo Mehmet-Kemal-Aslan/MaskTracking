@@ -37,7 +37,10 @@ namespace WorkSpace
             }
 
             Person person1 = new Person();
-            person1.Name = "Mehmet";
+            person1.Name = "MEHMET KEMAL";
+            person1.Surname = "ASLAN";
+            person1.BirthDate = 1995;
+            person1.CitizenId = 1234567890;
 
             PttManager pttManager = new PttManager(new PersonManager());
             pttManager.GiveMask(person1);
@@ -53,8 +56,8 @@ namespace WorkSpace
             bool isAuthenticated = false;
 
 
-            string name = "Mehmet";
-            string surname = "Aslan";
+            string name = "MEHMET KEMAL";
+            string surname = "ASLAN";
             int birthDate = 1995;
             long citizenId = 1234567890;
 
